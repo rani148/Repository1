@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D09D-099B
+
+ Directory of C:\Users\Windows 10\Desktop\My Git Project
+
+29-09-2020  16:32    <DIR>          .
+29-09-2020  16:32    <DIR>          ..
+27-09-2020  18:24                21 index.html
+27-09-2020  18:21                17 test.txt
+29-09-2020  16:32                 0 test2.txt
+               3 File(s)             38 bytes
+               2 Dir(s)  174,733,651,968 bytes free
